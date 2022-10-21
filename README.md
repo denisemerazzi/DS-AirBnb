@@ -75,7 +75,7 @@ e) Construção de um mapa por localizando os imóveis por preço e categoria.
 * O bairro mais rentável é Roosevelt Island, na região de Manhattan.
   
 
-## 7. Resultados finaceiros:
+## 7. Resultados financeiros:
 Através do relatório de rentabilidade é possível identificar o retorno do valor investido, de acordo com o imóvel adquirido. 
 
 Por exemplo, na simulação de investimento de 1 milhão de dólares, para o imóvel mais rentável (mais rapidamente ocupado, pelo melhor valor da diária), identificou-se 7 locações para alcançar o valor investido (roi).
